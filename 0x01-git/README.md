@@ -1,1 +1,1 @@
-alx-pre_course
+ALX school is an interesting experience!
