@@ -1,1 +1,1 @@
-ALX school is an interesting experience!
+My first README
